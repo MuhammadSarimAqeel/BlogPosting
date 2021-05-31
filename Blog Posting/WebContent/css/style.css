@@ -1,0 +1,29 @@
+.fullpage{
+	background-color: #ab47bc;
+}
+.jumbotron{
+	background-color: #ab47bc;
+}
+.card{
+	background-color:#424242;
+	color:white;
+}
+.myform{
+	padding:25px;
+}
+.cardheader{
+	padding-left:25px;
+	padding-top:15px;
+}
+#pagebg{
+	background-color: #ab47bc;
+}
+#CARD{
+	height:80%
+}
+#registerpage{
+	background-color: #ab47bc;
+}
+#loginpage{
+	background-color: #ab47bc;
+}
